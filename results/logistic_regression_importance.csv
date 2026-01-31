@@ -1,0 +1,14 @@
+feature,importance
+std_throughput,31.994339225660873
+max_throughput,11.257115897797846
+peak_utilization,11.257115897797803
+avg_utilization,11.165920231282035
+mean_throughput,11.165920231282035
+loss_count,8.104232725505453
+loss_rate,8.104232725505447
+link_Link_1,1.6122641031894627
+link_Link_3,0.8922268858486688
+link_Link_2,0.7844045723860049
+throughput_trend,0.3293212464473331
+max_burst_length,0.0
+time_since_last_loss,0.0
